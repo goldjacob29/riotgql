@@ -1,0 +1,20 @@
+{
+  "name": "riotgql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldjacob29/riotgql.git"
+  },
+  "keywords": [],
+  "author": "Jacob Gold <gold.jacob29@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goldjacob29/riotgql/issues"
+  },
+  "homepage": "https://github.com/goldjacob29/riotgql#readme"
+}
